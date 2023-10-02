@@ -1,15 +1,15 @@
 const data = {
-  name: "Kshitij Girkar",
-  role: "passionate Software Engineer",
+  name: "Shivansh Bansal",
+  role: "Techie with an Immense Interest in Finance",
   socialLinks: [
     {
       name: "github",
-      url: "http://github.com/girkarkshitij",
+      url: "https://github.com/SBShivansh30",
       className: "fab fa-github",
     },
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/girkarkshitij/",
+      url: "https://www.linkedin.com/in/shivansh-bansal-380959167/
       className: "fab fa-linkedin",
     },
     {
@@ -19,28 +19,28 @@ const data = {
     },
     {
       name: "instagram",
-      url: "https://www.instagram.com/kshitij_girkar/",
+      url: "https://www.instagram.com/shivansh_bnsl_30/",
       className: "fab fa-instagram",
     },
   ],
   address: "Mumbai, India",
-  website: "https://kshitijgirkar.me",
+  website: "https://www.shivanshbansal.com",
   skills: [
     {
       id: 1,
-      skill: "React.js",
+      skill: "Python",
     },
     {
       id: 2,
-      skill: "Node.js",
+      skill: "Node.js+React.js",
     },
     {
       id: 3,
-      skill: "MongoDB",
+      skill: "SQL",
     },
     {
       id: 4,
-      skill: "SQL",
+      skill: "Hive/Apache",
     },
     {
       id: 5,
@@ -58,25 +58,25 @@ const data = {
   projects: [
     // Project images in assets folder
     {
-      name: "Contact Manager",
+      name: "Trading Analyst - Barclays",
       description:
-        "A full-stack contact manager used to store contact details. Front-end is built with React.js and back-end is built using Node.js, Express.js, MongoDB and JWT authentication",
-      githuburl: "https://github.com/girkarkshitij/contact-manager",
+        "At Barclays, I excel in trading analytics, harnessing big data with PySpark and Python, and crafting user-friendly web solutions like an internal portal and data visualization tools. My role is pivotal in optimizing data pipelines, ensuring smooth data flow, and empowering data-driven decisions.",
+      githuburl: "https://github.com/SBShivansh30",
       siteurl: "https://contact-manager-mern-qelc.onrender.com/",
       techstack: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "JWT Authentication",
+        "Python",
+        "Pyspark",
+        "SQL",
+        "KDB+",
+        "Flask/Django",
       ],
     },
     {
-      name: "Github Search App",
+      name: "Risk Analyst - Lendingkart",
       description:
-        "A React.js app to to search Github profiles using Github API. This app uses the Context API along with the React Hooks for state management.",
-      githuburl: "https://github.com/girkarkshitij/github-search-app",
-      siteurl: "https://github-search-app-girkarkshitij.netlify.app/",
+        "At LendingKart, I focused on data analysis and risk assessment for an unsecured loan portfolio exceeding millions of dollars. My role involved designing risk assessment models, minimizing loan defaults, and extracting valuable insights from extensive data using Python and SQL.",
+      githuburl: "https://github.com/",
+      siteurl: "",
       techstack: [
         "React.js",
         "Github API",
@@ -86,26 +86,24 @@ const data = {
       ],
     },
     {
-      name: "Learn 3D Geometry with AR",
+      name: "Research Scholar - University of Ottawa, Canada",
       description:
-        "An Android app implemented in Kotlin, AR functionality added using ARCore and Sceneform. Used Firebase for backend.",
-      githuburl: "https://github.com/girkarkshitij/GeometryAR",
-      siteurl: "https://github.com/girkarkshitij/GeometryAR",
-      techstack: ["Kotlin", "Firebase", "ARCore", "Sceneform"],
+        "During my internship at the University of Ottawa, I focused on financial statement analysis, with an emphasis on interpreting intricate financial data. I skillfully extracted relevant risk factors through data parsing and employed advanced NLP and ML models, including BERT, to achieve a notable 70% accuracy rate in our research project. This experience showcased the practical use of NLP and ML in financial statement analysis and risk assessment.",
+      githuburl: "https://github.com/",
+      siteurl: "https://github.com/",
+      techstack: ["NLP - BERT, LDA, CS", "Python"],
     },
     {
-      name: "TechShop : e-commerce",
+      name: "Data Scientist Intern - Reliance Industries",
       description:
-        "A full-stack e-commerce site. Front-end is built with React.js and Redux. Back-end is built using Node.js, Express.js, MongoDB and JWT authentication.",
+        "I specialized in forecasting crude oil prices using a variety of predictive models, including LSTM, regression, and gradient descent. My work involved implementing cross-validation techniques to ensure the robustness of the models and achieve exceptional predictive accuracy. Through these contributions, I enhanced Reliance Industries' ability to make accurate crude oil price forecasts.",
       githuburl: "https://github.com/girkarkshitij/e-commerce-mern",
       siteurl: "https://tech-shop-mern.onrender.com/",
       techstack: [
-        "React.js",
-        "Redux",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "JWT Authentication",
+        "Time Series Analysis",
+        "LSTM",
+        "ARIMA",
+        "Crude Oil Indices",
       ],
     },
   ],
