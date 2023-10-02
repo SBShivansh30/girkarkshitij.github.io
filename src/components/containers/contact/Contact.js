@@ -14,7 +14,7 @@ const Contact = () => {
         Want to discuss something or just want to say hi?
         <br /> My inbox is open for all
       </h3>
-      <h3 className='text-xl text-light2 pb-8'>girkarkshitij@gmail.com</h3>
+      <h3 className='text-xl text-light2 pb-8'>shivanshbansal30@gmail.com</h3>
       <ul className='pb-16'>
         {socialLinks.map((link) => {
           return (
@@ -27,7 +27,7 @@ const Contact = () => {
         })}
       </ul>
       <a
-        href='https://github.com/girkarkshitij/portfolio'
+        href='https://github.com/SBShivansh30'
         target='_blank'
         rel='noreferrer'
       >
@@ -35,7 +35,7 @@ const Contact = () => {
           Built by
           <span translate='no' className='text-light2'>
             {' '}
-            Kshitij Girkar
+            Shivansh Bansal
           </span>
         </h5>
       </a>
